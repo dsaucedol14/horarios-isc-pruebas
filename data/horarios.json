@@ -1,0 +1,2161 @@
+{
+ "periodo": "AGOSTO - DICIEMBRE 2026",
+ "generado": "2026-09-29T23:55:41-06:00",
+ "fases": {
+  "primera": "2026-08-24",
+  "segunda": "2026-10-19",
+  "semanasPorFase": 8
+ },
+ "maestros": [
+  {
+   "id": "blanca-areli-gonzalez-martinez",
+   "nombre": "Mtra. Blanca Areli González Martinez",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "13:00",
+     "fin": "15:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "FISICA GENERAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "FISICA GENERAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "10:00",
+     "fin": "12:00",
+     "materia": "FISICA GENERAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "FISICA GENERAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "12:00",
+     "fin": "14:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "J15",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "carmen-jeannette-sampayo-rodriguez",
+   "nombre": "Mtra. Carmen Jeannette Sampayo Rodriguez",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "GRAFICACION",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "GRAFICACION",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "14:00",
+     "fin": "16:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "13:00",
+     "fin": "15:00",
+     "materia": "GRAFICACION",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "GRAFICACION",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "GRAFICACION",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "GRAFICACION",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "12:00",
+     "fin": "14:00",
+     "materia": "GRAFICACION",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "GRAFICACION",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "14:00",
+     "fin": "16:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "J15",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "claudia-yadira-luna-carrasco",
+   "nombre": "Mtra. Claudia Yadira Luna Carrasco",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "16:00",
+     "fin": "17:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "10:00",
+     "fin": "12:00",
+     "materia": "FUNDAMENTOS DE INVESTIGACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "14:00",
+     "fin": "16:00",
+     "materia": "LENGUAJES Y AUTOMATAS II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "cupertino-luna-trejo",
+   "nombre": "Mtro. Cupertino Luna Trejo",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "10:00",
+     "fin": "12:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "DESARROLLO DE APLICACIONES MOVILES II",
+     "grupo": "GFSIS07",
+     "fase": 1,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "12:00",
+     "fin": "14:00",
+     "materia": "ESTRUCTURA DE DATOS",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "K12",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "gerardo-garrido-gonzalez",
+   "nombre": "Ing. Gerardo Garrido Gonzalez",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "CALCULO VECTORIAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "17:00",
+     "fin": "18:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "CALCULO VECTORIAL",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "16:00",
+     "fin": "18:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "14:00",
+     "fin": "16:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "CALCULO VECTORIAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "13:00",
+     "fin": "15:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "17:00",
+     "fin": "18:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "CALCULO DIFERENCIAL",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "12:00",
+     "fin": "14:00",
+     "materia": "CALCULO VECTORIAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "SISTEMAS PROGRAMABLES",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "15:00",
+     "fin": "17:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "07:00",
+     "fin": "10:00",
+     "materia": "CALCULO VECTORIAL",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "K12",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "julio-andres-avila-fonseca",
+   "nombre": "Mtro. Julio Andres Avila Fonseca",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "CULTURA EMPRESARIAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "CULTURA EMPRESARIAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "TALLER DE ETICA",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "TALLER DE ETICA",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "VJ15",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "CONMUTACION Y ENRUTAMIENTO EN REDES DE DATOS",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "07:00",
+     "fin": "08:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "CULTURA EMPRESARIAL",
+     "grupo": "G1MSIS03",
+     "fase": null,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "CONMUTACION Y ENRUTAMIENTO EN REDES DE DATOS",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "TALLER DE ETICA",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "SISTEMAS OPERATIVOS",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "09:00",
+     "fin": "12:00",
+     "materia": "ARQUITECTURA DE COMPUTADORAS",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "12:00",
+     "fin": "14:00",
+     "materia": "DESARROLLO SUSTENTABLE",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "12:00",
+     "fin": "14:00",
+     "materia": "CONMUTACION Y ENRUTAMIENTO EN REDES DE DATOS",
+     "grupo": "GFSIS07",
+     "fase": 2,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS03",
+     "fase": 2,
+     "salon": "K12",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "luz-veronica-mendoza-niaves",
+   "nombre": "Mtra. Luz Veronica Mendoza Niaves",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "16:00",
+     "fin": "18:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "18:00",
+     "fin": "20:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "16:00",
+     "fin": "17:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "17:00",
+     "fin": "19:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "19:00",
+     "fin": "20:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "16:00",
+     "fin": "18:00",
+     "materia": "CONMUTACION Y ENRUTAMIENTO EN REDES DE DATOS",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "18:00",
+     "fin": "19:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "19:00",
+     "fin": "20:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "16:00",
+     "fin": "18:00",
+     "materia": "CONMUTACION Y ENRUTAMIENTO EN REDES DE DATOS",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "18:00",
+     "fin": "19:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "16:00",
+     "fin": "17:00",
+     "materia": "CONMUTACION Y ENRUTAMIENTO EN REDES DE DATOS",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "17:00",
+     "fin": "19:00",
+     "materia": "TALLER DE INVESTIGACION I",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "07:00",
+     "fin": "09:00",
+     "materia": "FUNDAMENTOS DE TELECOMUNICACIONES",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "J16",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS01",
+     "fase": 2,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "GFSIS05",
+     "fase": 2,
+     "salon": "J16",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "manuel-hernandez-melendez",
+   "nombre": "Mtro. Manuel Hernandez Melendez",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "16:00",
+     "fin": "18:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "17:00",
+     "fin": "18:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "18:00",
+     "fin": "19:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "16:00",
+     "fin": "18:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "18:00",
+     "fin": "20:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "16:00",
+     "fin": "17:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "18:00",
+     "fin": "20:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "rosalba-gonzalez-ambriz",
+   "nombre": "Mtra. Rosalba Gonzalez Ambriz",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "CULTURA EMPRESARIAL",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "VK12",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "14:00",
+     "fin": "16:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "VJ16",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "09:00",
+     "fin": "10:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "13:00",
+     "fin": "15:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "11:00",
+     "fin": "12:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "G1MSIS05",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "G2MSIS01",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "GESTION DE PROYECTOS DE SOFTWARE",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "CULTURA EMPRESARIAL",
+     "grupo": "GFSIS03",
+     "fase": 1,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "11:00",
+     "fin": "13:00",
+     "materia": "TALLER DE ADMINISTRACION",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "13:00",
+     "fin": "15:00",
+     "materia": "FUNDAMENTOS DE INGENIERIA DE SOFTWARE",
+     "grupo": "GFSIS05",
+     "fase": 1,
+     "salon": "J16",
+     "tipo": "clase"
+    }
+   ]
+  },
+  {
+   "id": "sabdiel-cruz-luna",
+   "nombre": "Mtro. Sabdiel Cruz Luna",
+   "bloques": [
+    {
+     "dia": "LUNES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "10:00",
+     "fin": "11:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "12:00",
+     "fin": "13:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "LUNES",
+     "inicio": "15:00",
+     "fin": "17:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "08:00",
+     "fin": "10:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "TUTORIA GRUPAL",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MARTES",
+     "inicio": "15:00",
+     "fin": "16:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "08:00",
+     "fin": "09:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "VK11",
+     "tipo": "asesoria_virtual"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "13:00",
+     "fin": "14:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "MIERCOLES",
+     "inicio": "14:00",
+     "fin": "16:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "G2VSIS07",
+     "fase": null,
+     "salon": "J15",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "10:00",
+     "fin": "12:00",
+     "materia": "FUNDAMENTOS DE PROGRAMACION",
+     "grupo": "G1MSIS01",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "JUEVES",
+     "inicio": "13:00",
+     "fin": "15:00",
+     "materia": "ARQUITECTURA DE DESARROLLO DE APLICACIONES FULL STACK I",
+     "grupo": "G1VSIS07",
+     "fase": null,
+     "salon": "K-11",
+     "tipo": "clase"
+    },
+    {
+     "dia": "VIERNES",
+     "inicio": "14:00",
+     "fin": "15:00",
+     "materia": "TALLER DE BASE DE DATOS",
+     "grupo": "G1VSIS05",
+     "fase": null,
+     "salon": "K12",
+     "tipo": "clase"
+    },
+    {
+     "dia": "SABADO",
+     "inicio": "09:00",
+     "fin": "11:00",
+     "materia": "MATEMATICAS DISCRETAS",
+     "grupo": "GFSIS01",
+     "fase": 1,
+     "salon": "K-11",
+     "tipo": "clase"
+    }
+   ]
+  }
+ ]
+}
